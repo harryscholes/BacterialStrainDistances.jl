@@ -1,0 +1,7 @@
+name = "BacterialStrainDistances"
+author = "@harryscholes"
+
+[deps]
+Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
+Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
+JuliaDB = "a93385a2-3734-596a-9a66-3cfbb77141e6"
